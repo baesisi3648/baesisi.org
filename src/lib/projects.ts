@@ -17,7 +17,7 @@ export const projects: Project[] = [
       ko: "자소서 기반 AI 면접 코칭. GPT-4o 꼬리질문 + 시선·음성 실시간 분석.",
       en: "AI interview coach with resume-aware questions, GPT-4o follow-ups, and live gaze/voice analytics.",
     },
-    tags: ["React", "Vite", "GPT-4o", "Whisper", "MediaPipe", "Firebase"],
+    tags: ["MediaPipe", "Whisper", "GPT-4o", "React", "Firebase"],
     url: "https://careerchain.site",
     status: "live",
   },
@@ -49,6 +49,7 @@ export const projects: Project[] = [
       en: "A journal app that translates your emotions into scent. 2,387-fragrance DB + AI analysis.",
     },
     tags: ["Kotlin", "Jetpack Compose", "FastAPI", "Azure", "GPT-4o"],
-    status: "wip",
+    url: "https://janhyang-web.web.app/app",
+    status: "live",
   },
 ];
