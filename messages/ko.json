@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "about": "About"
+  },
+  "hero": {
+    "line1": "AI 프로덕트를 만듭니다.",
+    "line2": "과정을 공개합니다.",
+    "description": "혼자 만들고, 정직하게 기록하는 풀스택 빌더. Claude Code로 제품을 설계·구현·배포하며 하나씩 세상에 올립니다.",
+    "since": "since 2026"
+  },
+  "stats": {
+    "live": "live",
+    "building": "building"
+  },
+  "projects": {
+    "title": "Projects",
+    "see_all": "see all →",
+    "status_live": "LIVE",
+    "status_wip": "BUILDING",
+    "visit": "visit",
+    "coming_soon_title": "Coming soon",
+    "coming_soon_desc": "다음 프로덕트 준비 중",
+    "page_subtitle": "혼자 만들고 있는 제품들. 공개된 것과 아직 만들고 있는 것.",
+    "section_live": "Live",
+    "section_building": "Building"
+  },
+  "about": {
+    "title": "About",
+    "intro": "안녕하세요, 배시시입니다. AI 프로덕트를 만들고 과정을 공개합니다.",
+    "p1": "Claude Code로 100여 개의 스킬을 만들어왔고, 지금은 그 스킬들을 하나씩 실제 서비스로 내놓고 있습니다.",
+    "p2": "혼자 기획하고, 설계하고, 구현하고, 배포합니다. \"완성\"보다 \"공개\"가 먼저인, 빌딩 인 퍼블릭.",
+    "stack_title": "Stack",
+    "contact_title": "Contact",
+    "contact_desc": "협업·질문·의견은 GitHub으로 부탁드립니다."
+  },
+  "meta": {
+    "title": "baesisi — AI 프로덕트를 만듭니다",
+    "description": "AI 프로덕트를 만듭니다. 과정을 공개합니다.",
+    "about_title": "About — baesisi",
+    "about_description": "AI 프로덕트를 만들고 과정을 공개하는 풀스택 빌더 소개.",
+    "projects_title": "Projects — baesisi",
+    "projects_description": "혼자 만들고 있는 AI 프로덕트 목록."
+  }
+}

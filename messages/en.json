@@ -1,0 +1,45 @@
+{
+  "nav": {
+    "projects": "Projects",
+    "about": "About"
+  },
+  "hero": {
+    "line1": "I build AI products.",
+    "line2": "I share the process.",
+    "description": "A solo full-stack builder who ships honestly. I design, build, and deploy products with Claude Code — one at a time.",
+    "since": "since 2026"
+  },
+  "stats": {
+    "live": "live",
+    "building": "building"
+  },
+  "projects": {
+    "title": "Projects",
+    "see_all": "see all →",
+    "status_live": "LIVE",
+    "status_wip": "BUILDING",
+    "visit": "visit",
+    "coming_soon_title": "Coming soon",
+    "coming_soon_desc": "Next product in the works",
+    "page_subtitle": "Products I'm building alone. Shipped and in progress.",
+    "section_live": "Live",
+    "section_building": "Building"
+  },
+  "about": {
+    "title": "About",
+    "intro": "Hi, I'm baesisi. I build AI products and share the process openly.",
+    "p1": "I've built 100+ skills with Claude Code, and now I'm turning them into real services — one at a time.",
+    "p2": "I plan, design, build, and ship alone. \"Shipping\" comes before \"finished\" — building in public.",
+    "stack_title": "Stack",
+    "contact_title": "Contact",
+    "contact_desc": "For collaboration, questions, or feedback — reach out via GitHub."
+  },
+  "meta": {
+    "title": "baesisi — I build AI products",
+    "description": "I build AI products. I share the process.",
+    "about_title": "About — baesisi",
+    "about_description": "A solo full-stack builder who ships AI products openly.",
+    "projects_title": "Projects — baesisi",
+    "projects_description": "AI products I'm building alone."
+  }
+}
