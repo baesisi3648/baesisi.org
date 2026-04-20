@@ -52,4 +52,24 @@ export const projects: Project[] = [
     url: "https://janhyang-web.web.app/app",
     status: "live",
   },
+  {
+    id: "marryroute",
+    name: "MarryRoute",
+    oneliner: {
+      ko: "결혼 준비를 이 앱 하나로 끝내는 AI 웨딩 플래너. 구조화된 상담 + 업체 비교 + 체크리스트.",
+      en: "An AI wedding planner that handles everything — structured consultation, vendor comparison, and smart checklists.",
+    },
+    tags: ["Next.js", "FastAPI", "Supabase", "Pydantic AI", "GPT-4", "Tavily"],
+    status: "wip",
+  },
+  {
+    id: "promptlog",
+    name: "PromptLog",
+    oneliner: {
+      ko: "터미널에서 사라지는 좋은 프롬프트를 기록하고 A/B 테스트하는 프롬프트 매니저.",
+      en: "A prompt manager for vibe coders — log your best terminal prompts and A/B test them.",
+    },
+    tags: ["Next.js", "FastAPI", "Supabase", "TypeScript", "shadcn/ui"],
+    status: "wip",
+  },
 ];
