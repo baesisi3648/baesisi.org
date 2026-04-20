@@ -1,7 +1,6 @@
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { projects } from "@/lib/projects";
-import { Avatar } from "@/components/Avatar";
 import { ProjectCard } from "@/components/ProjectCard";
 import { ComingSoonCard } from "@/components/ComingSoonCard";
 
@@ -13,8 +12,7 @@ export default function Home() {
   return (
     <main className="w-full px-6 md:px-12 lg:px-20 py-16 md:py-24 flex-1">
       <section className="mb-24 md:mb-32 max-w-5xl">
-        <Avatar size={72} />
-        <h1 className="mt-8 text-5xl md:text-7xl lg:text-8xl font-black tracking-[-0.035em] leading-[1.02]">
+        <h1 className="text-5xl md:text-7xl lg:text-8xl font-black tracking-[-0.035em] leading-[1.02]">
           {t("hero.line1")}
           <br />
           <span className="text-muted">{t("hero.line2")}</span>
