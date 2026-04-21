@@ -28,8 +28,9 @@ export const projects: Project[] = [
       ko: "종 특이적 DNA 프라이머 자동 설계기. NCBI 서열 수집 → 정렬 → AI 검증.",
       en: "Species-specific DNA primer designer. NCBI fetch → alignment → AI review.",
     },
-    tags: ["Streamlit", "Python", "Biopython", "NCBI", "GPT-4o"],
-    status: "wip",
+    tags: ["Next.js", "FastAPI", "Biopython", "NCBI", "shadcn/ui", "GPT-4o"],
+    url: "https://pjt-primer-design.vercel.app",
+    status: "live",
   },
   {
     id: "virtual_lab",
