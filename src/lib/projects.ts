@@ -40,7 +40,8 @@ export const projects: Project[] = [
       en: "An AI agent team deriving GMO safety assessment frameworks via multi-round meetings.",
     },
     tags: ["Next.js", "FastAPI", "LangGraph", "GPT-5", "Pinecone"],
-    status: "wip",
+    url: "https://virtual-lab-chi.vercel.app",
+    status: "live",
   },
   {
     id: "scentive",
