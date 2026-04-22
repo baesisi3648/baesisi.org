@@ -74,4 +74,15 @@ export const projects: Project[] = [
     tags: ["Next.js", "FastAPI", "Supabase", "TypeScript", "shadcn/ui"],
     status: "wip",
   },
+  {
+    id: "bio_marble",
+    name: "생명 마블",
+    oneliner: {
+      ko: "생명과학 수업용 부루마블 보드게임. 모둠 대결 + 풀스크린 퀴즈 + 50문제 내장, 교사용 문제 관리 페이지.",
+      en: "A Monopoly-style board game for high-school biology class. Team battles, quizzes, and a teacher admin panel.",
+    },
+    tags: ["JavaScript", "Canvas", "Board Game", "Education", "Cloudflare"],
+    url: "https://bio-marble.pages.dev",
+    status: "live",
+  },
 ];
