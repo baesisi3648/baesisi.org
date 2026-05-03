@@ -58,11 +58,12 @@ export const projects: Project[] = [
     id: "marryroute",
     name: "MarryRoute",
     oneliner: {
-      ko: "결혼 준비를 이 앱 하나로 끝내는 AI 웨딩 플래너. 구조화된 상담 + 업체 비교 + 체크리스트.",
-      en: "An AI wedding planner that handles everything — structured consultation, vendor comparison, and smart checklists.",
+      ko: "AI 플래너 '마리'와 함께 결혼 준비를 끝내는 앱. 자동 체크리스트 + 업체 검색 + 챗봇이 일정까지 직접 등록.",
+      en: "An AI wedding planner ‘Mari’ that auto-generates checklists, compares vendors, and books schedules from chat.",
     },
-    tags: ["Next.js", "FastAPI", "Supabase", "Pydantic AI", "GPT-4", "Tavily"],
-    status: "wip",
+    tags: ["Next.js 16", "FastAPI", "LangGraph", "Supabase", "GPT-4o-mini", "Tavily"],
+    url: "https://marryroute.vercel.app",
+    status: "live",
   },
   {
     id: "promptlog",
@@ -76,7 +77,7 @@ export const projects: Project[] = [
   },
   {
     id: "bio_marble",
-    name: "생명 마블",
+    name: "Bio Marble",
     oneliner: {
       ko: "생명과학 수업용 부루마블 보드게임. 모둠 대결 + 풀스크린 퀴즈 + 50문제 내장, 교사용 문제 관리 페이지.",
       en: "A Monopoly-style board game for high-school biology class. Team battles, quizzes, and a teacher admin panel.",
